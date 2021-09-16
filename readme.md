@@ -1,2 +1,4 @@
-# This is COMP3111 Lab 1
-3203 8910
+Name : Michael Jhon Laurent
+ID : 12345678
+
+![alt text](images.png)
